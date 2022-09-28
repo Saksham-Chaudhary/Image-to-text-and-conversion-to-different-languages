@@ -1,3 +1,2 @@
-def sample(){
+def sample():
     print("something")
-}
